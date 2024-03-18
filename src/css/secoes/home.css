@@ -14,6 +14,11 @@
     padding: 0 15px;
 }
 
+.outer-shadow{
+    width: 565px;
+    height: 460px;
+}
+
 @media(max-width: 1280px) {
     .home .texto-home, .home .img-home {
         flex: 0 0 1000%;
